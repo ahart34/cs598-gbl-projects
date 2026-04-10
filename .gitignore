@@ -80,3 +80,6 @@ hands_on_protein/results/**/*.tmp
 hands_on_protein/results/**/*.temp
 hands_on_protein/results/**/.DS_Store
 hands_on_protein/results/**/*~
+hands_on_protein/third_party/proteina/
+hands_on_protein/third_party/ProteinMPNN/
+hands_on_protein/third_party/CS598-GBL/

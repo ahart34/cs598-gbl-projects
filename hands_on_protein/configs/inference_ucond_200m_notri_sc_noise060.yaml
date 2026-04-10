@@ -1,0 +1,15 @@
+defaults:
+  - inference_base
+  - _self_
+
+run_name_: ucond_200M_notri_sc_noise060
+ckpt_name: proteina_v1.2_DFS_200M_notri.ckpt
+
+self_cond: True
+
+nres_lens: [90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128]
+nsamples_per_len: 10
+
+sampling_caflow:
+  sampling_mode: sc
+  sc_scale_noise: 0.60
