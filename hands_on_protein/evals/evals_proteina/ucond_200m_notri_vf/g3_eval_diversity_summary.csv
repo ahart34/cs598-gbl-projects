@@ -1,0 +1,2 @@
+model_dir,num_designs,num_clusters,cluster_dir
+/home/carlosc6/CS598-GBL/protein/proteina_inference/inference_ucond_200m_notri_vf,390,372,/home/carlosc6/CS598-GBL/protein/proteina_inference/inference_ucond_200m_notri_vf/cluster
