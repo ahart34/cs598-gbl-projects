@@ -38,7 +38,6 @@ MODEL_LABELS = {
 
 COLORS = plt.cm.Set2(np.linspace(0, 1, 8))
 
-# Matplotlib defaults tuned for publication
 plt.rcParams.update({
     "font.family": "sans-serif",
     "font.size": 14,
